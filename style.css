@@ -126,7 +126,7 @@ nav ul li a {
     bottom: 0;
     left: 0;
     width: 0;
-    height: 2px;
+    height: 3px;
     background-color: #0A0A0A;
     transition: width 0.3s ease;
     /* Adding a transition to the width property */
@@ -228,7 +228,7 @@ nav ul li ul li a {
     content: "";
 
     height: 100vh;
-    background: url('../images/hometop-bg.png') no-repeat center center/cover;
+    background: url('hometop-bg.png') no-repeat center center/cover;
 
     padding-top: 50px;
     overflow: hidden;
